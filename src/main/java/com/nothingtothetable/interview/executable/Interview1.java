@@ -9,8 +9,8 @@ public class Interview1 {
 		System.out.println(RemoveDuplicatesAnswer.removeDuplicates(""));
 		System.out.println(RemoveDuplicatesAnswer.removeDuplicates("1234512312312312345"));
 		System.out.println(RemoveDuplicatesAnswer.removeDuplicates("a1B2A3"));
-		System.out.println(RemoveDuplicatesAnswer.removeDuplicates("está duplicado?"));
-		System.out.println(RemoveDuplicatesAnswer.removeDuplicates("$£££££££$$$$$$€€€€€€¥¥¥¥¥"));
+		System.out.println(RemoveDuplicatesAnswer.removeDuplicates("estÃ¡ duplicado?"));
+		System.out.println(RemoveDuplicatesAnswer.removeDuplicates("$Â¥Â¥Â¥Â¥Â¥Â¥Â¥Â¥Â¥$$$$$$â‚¬â‚¬â‚¬â‚¬â‚¬â‚¤â‚¤â‚¤â‚¤â‚¤"));
 		
 	}
 
