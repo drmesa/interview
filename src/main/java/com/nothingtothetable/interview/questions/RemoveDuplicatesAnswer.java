@@ -7,7 +7,7 @@ public class RemoveDuplicatesAnswer {
 	
 	public static String removeDuplicates(final String input)
 	{
-		
+	
 		return "";
 	}
 }

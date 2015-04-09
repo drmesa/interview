@@ -18,7 +18,7 @@ public class RemoveDuplicates {
 			if(!set.contains(input.charAt(i)))
 			{
 				set.add(input.charAt(i));
-				str.append(input.charAt(i)); // TODO change to string builder
+				str.append(input.charAt(i));
 			}
 		}
 		return str.toString(); 
